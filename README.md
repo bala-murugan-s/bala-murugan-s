@@ -30,6 +30,10 @@ Pinned repos that highlight my expertise:
 🔹 [**network-automation**](https://github.com/bala-murugan-s/network-automation)  
 Python & Ansible scripts for automating firewall rule deployment and audits.  
 
+🔹
+[**network-security-automation**](https://github.com/bala-murugan-s/network-security-automation)  
+Python & Ansible scripts for automating firewall rule deployment and audits.  
+
 🔹 [**cloud-security-labs**](https://github.com/bala-murugan-s/cloud-security-labs)  
 Terraform & scripts for secure AWS/Azure cloud lab deployments.  
 
